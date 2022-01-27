@@ -1,6 +1,12 @@
 
-
+### Tecnologias
+<img src= "pokemonLogo.png" width = "120" height= "50"> App
 ### Proyectos
+<img src= "pokemonLogo.png" width = "120" height= "50"> App
+### Contactame 
+- Correo: goyihm@hotmail.com
+- ws: http://wa.me/5491137591137
+
 
 
 
