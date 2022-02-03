@@ -12,7 +12,7 @@
   
 ### Contactame 
 - <img src= "images/correo-electronico.png" width = "30" height= "30"> goyihm@hotmail.com
-- <img src= "images/whatsapp.png">  http://wa.me/5491137591137
+- <img src= "images/whatsapp.png">  http://wa.me/5491167065196
 
 
 
