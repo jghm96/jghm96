@@ -7,8 +7,7 @@
 ### Proyectos
 -<img src= "images/pokemonLogo.png" width = "120" height= "50"> https://pokemonjose-hvyebh8vn-jghm96.vercel.app/home
        
-<img src= "images/ashpokemon.PNG" width = "325" height= "160">  <img src= "images/principalsi.PNG" width = "325" height= "160"> <img src= "images/create.PNG" width = "325" height= "160">
-
+<img src= "images/ashpokemon.PNG" width = "400" height= "197">  <img src= "images/principalsi.PNG" width = "400" height= "197"> 
 
   
 ### Contactame 
